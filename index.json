@@ -1,0 +1,139 @@
+{
+    "ret": true,
+    "data": {
+        "city": "北京",
+        "swiperList": [{
+                "id": "0001",
+                "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201911/de3403017ec566223f9eb768bde13f87.jpg_750x200_7daa779a.jpg"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/8b/2680212fadf30002.jpg_750x200_f85409ac.jpg"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201911/0885dc58d87b07dff553140a1dd26a36.jpg_750x200_d7105b0b.jpg"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201910/e7eac5a5e99e6517c61b953c0fece63b.jpg_750x200_4b701cf8.jpg"
+            }, {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/8b/2680212fadf30002.jpg_750x200_f85409ac.jpg"
+            }
+        ],
+        "iconList": [{
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+                "desc": "西溪周家村"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                "desc": "杭州野生"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/f5/a963333e1fa802.png",
+                "desc": "本地玩乐"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+                "desc": "一日游"
+            },
+            {
+                "id": "0006",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ea/01d081dacb03cc02.png",
+                "desc": "赏秋色"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+                "desc": "印象西湖"
+            },
+            {
+                "id": "0008",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/17/99402a22ce4af302.png",
+                "desc": "西湖"
+            },
+            {
+                "id": "0009",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+                "desc": "杭州宋城"
+            },
+            {
+                "id": "00010",
+                "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+                "desc": "泡温泉"
+            }
+        ],
+        "recommendList": [{
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/201309/25/70edd368471094bdc8d65eac.jpg_200x200_75b6f391.jpg",
+                "title": "临安湍口众安氡温泉",
+                "desc": "夏凉冬暖，隆冬暖熏蒸，垒垒上浮"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1911/89/89c7a79f0888d731a3.water.jpg_200x200_9d47c51a.jpg",
+                "title": "西溪国家湿地公园·周家村",
+                "desc": "美若仙境，《非诚勿扰》取景地"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/cc/cc47164357acbeb5a3.water.jpg_200x200_151f0405.jpg",
+                "title": "杭州云曼温泉",
+                "desc": ""
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/60/6040e1c5dc5124f7a3.img.jpg_200x200_58dfa9be.jpg",
+                "title": "杭州烂苹果公园",
+                "desc": ""
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/28/288fbeccc335f774a3.img.jpg_200x200_4a81bde9.jpg",
+                "title": "印象西湖",
+                "desc": ""
+            }
+        ],
+        "weekendList": [{
+                "id": "0001",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg",
+                "title": "美丽普陀山",
+                "desc": "人间仙境杭州，佛教圣地普陀山等你来玩，在这里静心接受佛家的洗礼，用心感受佛文化"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a3/9c9d78e925e8bc.jpg_r_640x214_74656d68.jpg",
+                "title": "泡汤好去处",
+                "desc": "泡在氤氲的温泉中，聆听冬天脚步的声音"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1510/c1/afe3ab32b3bc23.jpg_r_640x214_beb61760.jpg",
+                "title": "精致暖汤",
+                "desc": "天然高品质温泉，这是冬天绣美容颜首选之地，让你疲惫的身影在这里消失的无影无踪"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg",
+                "title": "杭州必打卡",
+                "desc": "杭州，前世今生与你有一场美丽约会"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg",
+                "title": "承载杭城的历史之地",
+                "desc": "饱经沧桑的地方诉述着这座城的段段衷肠"
+            }
+        ]
+    }
+}
